@@ -1,3 +1,2 @@
 Hello There...
-I am prathamesh.
-from surat.
+I am prathamesh
